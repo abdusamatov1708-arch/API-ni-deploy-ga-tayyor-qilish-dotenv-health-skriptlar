@@ -1,0 +1,1 @@
+# API-ni-deploy-ga-tayyor-qilish-dotenv-health-skriptlar
